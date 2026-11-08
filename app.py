@@ -366,7 +366,7 @@ with col_visual:
             width=850,
             height=650,
             directed=False,
-            physics=True,  # Bật tính năng vật lý cho phép kéo thả đàn hồi
+            physics=False,  # Bật tính năng vật lý cho phép kéo thả đàn hồi
             hierarchical=False,
             nodeHighlightBehavior=True,
             highlightColor="#EF4444"
